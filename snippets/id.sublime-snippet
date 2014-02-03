@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+id="${1:name}"
+]]></content>
+	<tabTrigger>id</tabTrigger>
+	<scope>text.html, text.php</scope>
+</snippet>
+

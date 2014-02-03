@@ -1,0 +1,32 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"ApacheConf.tmLanguage",
+		"Auto Semi-Colon",
+		"DocBlockr",
+		"Dotfiles Syntax Highlighting",
+		"EditorConfig",
+		"Emmet",
+		"FindKeyConflicts",
+		"GitGutter",
+		"Goto-CSS-Declaration",
+		"Handlebars",
+		"Laravel Blade Highlighter",
+		"LiveStyle",
+		"Markdown Preview",
+		"Monokai Extended",
+		"MoveText",
+		"Package Control",
+		"PhpDoc",
+		"SCSS",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"Theme - Spacegray"
+	]
+}

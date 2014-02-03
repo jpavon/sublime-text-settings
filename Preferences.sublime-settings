@@ -1,0 +1,60 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/Monokai Extended (SL).tmTheme",
+	"draw_indent_guides": true,
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.pdf"
+	],
+	"folder_exclude_patterns":
+	[
+		".sass-cache",
+		".git",
+		"node_modules"
+	],
+	"font_face": "Source Code Pro",
+	"font_size": 12,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"DocBlockr"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_stack",
+		"normal_stippled",
+		"stack_stippled",
+		"active_stippled"
+	],
+	"scroll_past_end": true,
+	"show_full_path": true,
+	"soda_folder_icons": true,
+	"tab_size": 4,
+	"theme": "Spacegray Eighties.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true
+}
