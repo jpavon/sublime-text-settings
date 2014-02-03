@@ -1,1 +1,1 @@
-# Sublime Text user folder settings
+    Sublime Text settings
