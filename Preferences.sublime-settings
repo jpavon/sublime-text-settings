@@ -50,6 +50,8 @@
 		"stack_stippled",
 		"active_stippled"
 	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
 	"scroll_past_end": true,
 	"show_full_path": true,
 	"soda_folder_icons": true,
