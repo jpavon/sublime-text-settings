@@ -39,8 +39,9 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"DocBlockr"
+		"DocBlockr",
+		"Markdown Preview",
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
