@@ -31,7 +31,8 @@
 	[
 		".sass-cache",
 		".git",
-		"node_modules"
+		"node_modules",
+		"/vendor"
 	],
 	"font_face": "Source Code Pro",
 	"font_size": 14,
@@ -39,9 +40,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Markdown Preview",
 		"Vintage",
-		"Handlebars"
 	],
 	"indent_guide_options":
 	[
