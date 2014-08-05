@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-//	============================================================================
-//	${1:Seccion Name}
-//	============================================================================
+/* ------------------------------------------------------------
+	${1:Seccion Name}
+*/
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>c</tabTrigger>
