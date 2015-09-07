@@ -22,5 +22,8 @@
 
   // Go to end/start line
   { "keys": ["super+right"], "command": "move_to", "args": { "to": "eol" } },
-  { "keys": ["super+left"], "command": "move_to", "args": { "to": "bol" } }
+  { "keys": ["super+left"], "command": "move_to", "args": { "to": "bol" } },
+
+  // Close only file
+  { "keys": ["super+w"], "command": "close_file" },
 ]

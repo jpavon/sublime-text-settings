@@ -32,7 +32,7 @@
 		".sass-cache",
 		".git",
 		"node_modules",
-		"/vendor"
+		"./vendor"
 	],
 	"font_face": "Source Code Pro",
 	"font_size": 14,
@@ -40,7 +40,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
@@ -51,8 +51,8 @@
 		"stack_stippled",
 		"active_stippled"
 	],
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
 	"scroll_past_end": true,
 	"show_full_path": true,
 	"soda_folder_icons": true,

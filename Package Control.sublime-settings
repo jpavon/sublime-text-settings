@@ -1,5 +1,8 @@
 {
 	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -15,7 +18,10 @@
 		"GitGutter",
 		"Goto-CSS-Declaration",
 		"Handlebars",
+		"HTML-CSS-JS Prettify",
+		"Jinja2",
 		"Laravel Blade Highlighter",
+		"LESS",
 		"LiveStyle",
 		"Markdown Extended",
 		"Package Control",
